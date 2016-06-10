@@ -11,4 +11,8 @@ package Login;
  */
 class WorkbookFactory {
     
+    public static void main(String[] args) {
+        System.out.println("hi");
+    }
+    
 }
